@@ -1,5 +1,4 @@
 # todolist-express-example
-----
 * express
 * express-session
 * express-mysql-session
@@ -7,6 +6,9 @@
 * sequelize
 * mysql2
 * cors
+
+
+Change config/config.json file.
 
 ----
 ### User
