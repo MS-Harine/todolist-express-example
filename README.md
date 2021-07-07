@@ -6,6 +6,7 @@
 * sequelize-cli
 * sequelize
 * mysql2
+* cors
 
 ----
 ### User
